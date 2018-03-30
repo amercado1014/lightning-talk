@@ -18,7 +18,7 @@ shift + ?
 
 t
 
-## Keywords in commit message or comments
+## Keywords in commit message or comments to close issues
 
 example: Fixes #12
 
@@ -26,4 +26,16 @@ example: Fixes #12
 * close, closes, closed
 * resolve, resolves, resolved
 
+## Protect master branch
 
+settings / branches / protected branches
+
+## Projects tab
+
+Track your projects similar to Waffle and Trello.
+
+## Not GitHub but interesting
+
+Chrome Extensions:
+* Octotree - Code tree for GitHub
+* Stylish - Custom themes for any website (GitHub Dark)
