@@ -10,12 +10,6 @@ user/repo/commits?author=user
 
 user/repo/file-path#L1-L15
 
-## Avatar
-
-github.com/user-name.png
-
-![avatar](https://github.com/amercado1014.png)
-
 ## Content sensitive keyboard shortcuts
 
 shift + ?
