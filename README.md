@@ -14,7 +14,7 @@ user/repo/file-path#L1-L15
 
 github.com/user-name.png
 
-![avatar](github.com/amercado1014.png)
+![avatar](https://github.com/amercado1014.png)
 
 ## Content sensitive keyboard shortcuts
 
